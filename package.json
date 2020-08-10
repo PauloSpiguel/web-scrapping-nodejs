@@ -1,0 +1,9 @@
+{
+  "name": "scraping-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
